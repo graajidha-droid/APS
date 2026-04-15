@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/graajidha-droid/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0239-sliding-window-maximum](https://github.com/graajidha-droid/APS/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/graajidha-droid/APS/tree/master/0283-move-zeroes) |
+| [0641-design-circular-deque](https://github.com/graajidha-droid/APS/tree/master/0641-design-circular-deque) |
 | [0704-binary-search](https://github.com/graajidha-droid/APS/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/0977-squares-of-a-sorted-array) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/graajidha-droid/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/graajidha-droid/APS/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/graajidha-droid/APS/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/graajidha-droid/APS/tree/master/0387-first-unique-character-in-a-string) |
+| [0641-design-circular-deque](https://github.com/graajidha-droid/APS/tree/master/0641-design-circular-deque) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/graajidha-droid/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Counting
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/graajidha-droid/APS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/graajidha-droid/APS/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/graajidha-droid/APS/tree/master/0234-palindrome-linked-list) |
+| [0641-design-circular-deque](https://github.com/graajidha-droid/APS/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/graajidha-droid/APS/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/graajidha-droid/APS/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/graajidha-droid/APS/tree/master/0641-design-circular-deque) |
 ## Sliding Window
 |  |
 | ------- |
