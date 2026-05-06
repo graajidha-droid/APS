@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/graajidha-droid/APS/tree/master/0023-merge-k-sorted-lists) |
+| [0190-reverse-bits](https://github.com/graajidha-droid/APS/tree/master/0190-reverse-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/graajidha-droid/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0973-k-closest-points-to-origin](https://github.com/graajidha-droid/APS/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/graajidha-droid/APS/tree/master/0078-subsets) |
+| [0190-reverse-bits](https://github.com/graajidha-droid/APS/tree/master/0190-reverse-bits) |
 ## Greedy
 |  |
 | ------- |
