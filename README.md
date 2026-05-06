@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/graajidha-droid/APS/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/graajidha-droid/APS/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/graajidha-droid/APS/tree/master/0257-binary-tree-paths) |
 ## String
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/graajidha-droid/APS/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/graajidha-droid/APS/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/graajidha-droid/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/graajidha-droid/APS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/graajidha-droid/APS/tree/master/0239-sliding-window-maximum) |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/graajidha-droid/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/graajidha-droid/APS/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
