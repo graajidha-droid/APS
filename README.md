@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/graajidha-droid/APS/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/graajidha-droid/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/graajidha-droid/APS/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/graajidha-droid/APS/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/graajidha-droid/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/graajidha-droid/APS/tree/master/0997-find-the-town-judge) |
 ## Sorting
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/graajidha-droid/APS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/graajidha-droid/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/graajidha-droid/APS/tree/master/0721-accounts-merge) |
+| [0929-unique-email-addresses](https://github.com/graajidha-droid/APS/tree/master/0929-unique-email-addresses) |
 ## Array
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/graajidha-droid/APS/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/graajidha-droid/APS/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/graajidha-droid/APS/tree/master/0733-flood-fill) |
+| [0929-unique-email-addresses](https://github.com/graajidha-droid/APS/tree/master/0929-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/graajidha-droid/APS/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/graajidha-droid/APS/tree/master/0994-rotting-oranges) |
