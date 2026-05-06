@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/graajidha-droid/APS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/graajidha-droid/APS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/graajidha-droid/APS/tree/master/0257-binary-tree-paths) |
+| [0695-max-area-of-island](https://github.com/graajidha-droid/APS/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/graajidha-droid/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/graajidha-droid/APS/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/graajidha-droid/APS/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/graajidha-droid/APS/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/graajidha-droid/APS/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/graajidha-droid/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/graajidha-droid/APS/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/graajidha-droid/APS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0641-design-circular-deque](https://github.com/graajidha-droid/APS/tree/master/0641-design-circular-deque) |
+| [0695-max-area-of-island](https://github.com/graajidha-droid/APS/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/graajidha-droid/APS/tree/master/0704-binary-search) |
 | [0973-k-closest-points-to-origin](https://github.com/graajidha-droid/APS/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/0977-squares-of-a-sorted-array) |
@@ -243,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/graajidha-droid/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/graajidha-droid/APS/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/graajidha-droid/APS/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
