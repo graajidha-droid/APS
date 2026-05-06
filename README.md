@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/graajidha-droid/APS/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/graajidha-droid/APS/tree/master/0695-max-area-of-island) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/graajidha-droid/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/graajidha-droid/APS/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/graajidha-droid/APS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Stack
 |  |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/graajidha-droid/APS/tree/master/0704-binary-search) |
 | [0973-k-closest-points-to-origin](https://github.com/graajidha-droid/APS/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/graajidha-droid/APS/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/graajidha-droid/APS/tree/master/0997-find-the-town-judge) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/graajidha-droid/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/graajidha-droid/APS/tree/master/1480-running-sum-of-1d-array) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/graajidha-droid/APS/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/graajidha-droid/APS/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
