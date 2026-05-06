@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/graajidha-droid/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/graajidha-droid/APS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/graajidha-droid/APS/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/graajidha-droid/APS/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/graajidha-droid/APS/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/graajidha-droid/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/graajidha-droid/APS/tree/master/0721-accounts-merge) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/graajidha-droid/APS/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/graajidha-droid/APS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/graajidha-droid/APS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/graajidha-droid/APS/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/graajidha-droid/APS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/graajidha-droid/APS/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/graajidha-droid/APS/tree/master/0344-reverse-string) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/graajidha-droid/APS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/graajidha-droid/APS/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/graajidha-droid/APS/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/graajidha-droid/APS/tree/master/0973-k-closest-points-to-origin) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Prefix Sum
