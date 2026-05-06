@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/graajidha-droid/APS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/graajidha-droid/APS/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/graajidha-droid/APS/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/graajidha-droid/APS/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/graajidha-droid/APS/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/graajidha-droid/APS/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/graajidha-droid/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/graajidha-droid/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/graajidha-droid/APS/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/graajidha-droid/APS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0542-01-matrix](https://github.com/graajidha-droid/APS/tree/master/0542-01-matrix) |
 | [0641-design-circular-deque](https://github.com/graajidha-droid/APS/tree/master/0641-design-circular-deque) |
 | [0695-max-area-of-island](https://github.com/graajidha-droid/APS/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/graajidha-droid/APS/tree/master/0704-binary-search) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/graajidha-droid/APS/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/graajidha-droid/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/graajidha-droid/APS/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/graajidha-droid/APS/tree/master/0542-01-matrix) |
 ## Queue
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/graajidha-droid/APS/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/graajidha-droid/APS/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/graajidha-droid/APS/tree/master/0994-rotting-oranges) |
 ## Graph Theory
