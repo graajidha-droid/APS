@@ -321,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/graajidha-droid/APS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/graajidha-droid/APS/tree/master/0210-course-schedule-ii) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/graajidha-droid/APS/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/graajidha-droid/APS/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
