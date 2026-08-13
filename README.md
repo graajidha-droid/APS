@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/graajidha-droid/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/graajidha-droid/APS/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/graajidha-droid/APS/tree/master/0929-unique-email-addresses) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/graajidha-droid/APS/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Array
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/graajidha-droid/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/graajidha-droid/APS/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/graajidha-droid/APS/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Two Pointers
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/graajidha-droid/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/graajidha-droid/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/graajidha-droid/APS/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/graajidha-droid/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/graajidha-droid/APS/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Union-Find
 |  |
 | ------- |
