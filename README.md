@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/graajidha-droid/APS/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/graajidha-droid/APS/tree/master/0704-binary-search) |
 | [0721-accounts-merge](https://github.com/graajidha-droid/APS/tree/master/0721-accounts-merge) |
+| [0724-find-pivot-index](https://github.com/graajidha-droid/APS/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/graajidha-droid/APS/tree/master/0733-flood-fill) |
 | [0929-unique-email-addresses](https://github.com/graajidha-droid/APS/tree/master/0929-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/graajidha-droid/APS/tree/master/0973-k-closest-points-to-origin) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/graajidha-droid/APS/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/graajidha-droid/APS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/graajidha-droid/APS/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Dynamic Programming
