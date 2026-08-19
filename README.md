@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/graajidha-droid/APS/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/graajidha-droid/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/graajidha-droid/APS/tree/master/0997-find-the-town-judge) |
+| [1386-cinema-seat-allocation](https://github.com/graajidha-droid/APS/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/graajidha-droid/APS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/graajidha-droid/APS/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Sorting
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/0977-squares-of-a-sorted-array) |
 | [0994-rotting-oranges](https://github.com/graajidha-droid/APS/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/graajidha-droid/APS/tree/master/0997-find-the-town-judge) |
+| [1386-cinema-seat-allocation](https://github.com/graajidha-droid/APS/tree/master/1386-cinema-seat-allocation) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/graajidha-droid/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/graajidha-droid/APS/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/graajidha-droid/APS/tree/master/1563-stone-game-v) |
@@ -290,11 +292,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/graajidha-droid/APS/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/graajidha-droid/APS/tree/master/0190-reverse-bits) |
+| [1386-cinema-seat-allocation](https://github.com/graajidha-droid/APS/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/graajidha-droid/APS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/graajidha-droid/APS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [1386-cinema-seat-allocation](https://github.com/graajidha-droid/APS/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/graajidha-droid/APS/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
