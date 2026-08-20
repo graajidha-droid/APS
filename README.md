@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2029-stone-game-ix](https://github.com/graajidha-droid/APS/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/graajidha-droid/APS/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/graajidha-droid/APS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/graajidha-droid/APS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/graajidha-droid/APS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Two Pointers
@@ -381,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/graajidha-droid/APS/tree/master/2029-stone-game-ix) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/graajidha-droid/APS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
