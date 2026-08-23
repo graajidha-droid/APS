@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/graajidha-droid/APS/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/graajidha-droid/APS/tree/master/0929-unique-email-addresses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/graajidha-droid/APS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1927-sum-game](https://github.com/graajidha-droid/APS/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/graajidha-droid/APS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/graajidha-droid/APS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/graajidha-droid/APS/tree/master/0973-k-closest-points-to-origin) |
 | [1563-stone-game-v](https://github.com/graajidha-droid/APS/tree/master/1563-stone-game-v) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1927-sum-game](https://github.com/graajidha-droid/APS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/graajidha-droid/APS/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/graajidha-droid/APS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Prefix Sum
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/graajidha-droid/APS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/graajidha-droid/APS/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/graajidha-droid/APS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/graajidha-droid/APS/tree/master/2029-stone-game-ix) |
 ## Combinatorics
 |  |
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/graajidha-droid/APS/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/graajidha-droid/APS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/graajidha-droid/APS/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
