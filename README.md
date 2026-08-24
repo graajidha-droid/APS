@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/graajidha-droid/APS/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/graajidha-droid/APS/tree/master/1563-stone-game-v) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1872-stone-game-viii](https://github.com/graajidha-droid/APS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/graajidha-droid/APS/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/graajidha-droid/APS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/graajidha-droid/APS/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/graajidha-droid/APS/tree/master/0973-k-closest-points-to-origin) |
 | [1563-stone-game-v](https://github.com/graajidha-droid/APS/tree/master/1563-stone-game-v) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1872-stone-game-viii](https://github.com/graajidha-droid/APS/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/graajidha-droid/APS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/graajidha-droid/APS/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/graajidha-droid/APS/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/graajidha-droid/APS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/graajidha-droid/APS/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1872-stone-game-viii](https://github.com/graajidha-droid/APS/tree/master/1872-stone-game-viii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/graajidha-droid/APS/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/graajidha-droid/APS/tree/master/0542-01-matrix) |
 | [1563-stone-game-v](https://github.com/graajidha-droid/APS/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/graajidha-droid/APS/tree/master/1872-stone-game-viii) |
 ## Queue
 |  |
 | ------- |
@@ -372,11 +376,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/graajidha-droid/APS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/graajidha-droid/APS/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [1563-stone-game-v](https://github.com/graajidha-droid/APS/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/graajidha-droid/APS/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/graajidha-droid/APS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/graajidha-droid/APS/tree/master/2029-stone-game-ix) |
 ## Nim Game
@@ -386,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/graajidha-droid/APS/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/graajidha-droid/APS/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
