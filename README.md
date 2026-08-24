@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/graajidha-droid/APS/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/graajidha-droid/APS/tree/master/0219-contains-duplicate-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/graajidha-droid/APS/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/graajidha-droid/APS/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/graajidha-droid/APS/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/graajidha-droid/APS/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/graajidha-droid/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/graajidha-droid/APS/tree/master/0322-coin-change) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/graajidha-droid/APS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0542-01-matrix](https://github.com/graajidha-droid/APS/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/graajidha-droid/APS/tree/master/0560-subarray-sum-equals-k) |
 | [0641-design-circular-deque](https://github.com/graajidha-droid/APS/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/graajidha-droid/APS/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/graajidha-droid/APS/tree/master/0695-max-area-of-island) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/graajidha-droid/APS/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/graajidha-droid/APS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/graajidha-droid/APS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/graajidha-droid/APS/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
