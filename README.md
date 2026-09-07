@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/graajidha-droid/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0721-accounts-merge](https://github.com/graajidha-droid/APS/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/graajidha-droid/APS/tree/master/0929-unique-email-addresses) |
+| [0940-distinct-subsequences-ii](https://github.com/graajidha-droid/APS/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/graajidha-droid/APS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/graajidha-droid/APS/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/graajidha-droid/APS/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/graajidha-droid/APS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/graajidha-droid/APS/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/graajidha-droid/APS/tree/master/0542-01-matrix) |
+| [0940-distinct-subsequences-ii](https://github.com/graajidha-droid/APS/tree/master/0940-distinct-subsequences-ii) |
 | [1563-stone-game-v](https://github.com/graajidha-droid/APS/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/graajidha-droid/APS/tree/master/1872-stone-game-viii) |
 ## Queue
