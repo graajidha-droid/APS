@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/graajidha-droid/APS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/graajidha-droid/APS/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/graajidha-droid/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/graajidha-droid/APS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/graajidha-droid/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/graajidha-droid/APS/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/graajidha-droid/APS/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/graajidha-droid/APS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/graajidha-droid/APS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/graajidha-droid/APS/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/graajidha-droid/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/graajidha-droid/APS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
