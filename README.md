@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/graajidha-droid/APS/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/graajidha-droid/APS/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/graajidha-droid/APS/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/graajidha-droid/APS/tree/master/0835-image-overlap) |
 | [0929-unique-email-addresses](https://github.com/graajidha-droid/APS/tree/master/0929-unique-email-addresses) |
 | [0973-k-closest-points-to-origin](https://github.com/graajidha-droid/APS/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/0977-squares-of-a-sorted-array) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/graajidha-droid/APS/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/graajidha-droid/APS/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/graajidha-droid/APS/tree/master/0733-flood-fill) |
+| [0835-image-overlap](https://github.com/graajidha-droid/APS/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/graajidha-droid/APS/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
