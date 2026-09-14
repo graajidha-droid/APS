@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/graajidha-droid/APS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/graajidha-droid/APS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/graajidha-droid/APS/tree/master/0202-happy-number) |
+| [0836-rectangle-overlap](https://github.com/graajidha-droid/APS/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/graajidha-droid/APS/tree/master/0973-k-closest-points-to-origin) |
 | [1563-stone-game-v](https://github.com/graajidha-droid/APS/tree/master/1563-stone-game-v) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/graajidha-droid/APS/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/graajidha-droid/APS/tree/master/0973-k-closest-points-to-origin) |
 ## Quickselect
 |  |
