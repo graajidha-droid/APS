@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/graajidha-droid/APS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/graajidha-droid/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/graajidha-droid/APS/tree/master/0704-binary-search) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/graajidha-droid/APS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/graajidha-droid/APS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Tree
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/graajidha-droid/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/graajidha-droid/APS/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/graajidha-droid/APS/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/graajidha-droid/APS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/graajidha-droid/APS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/graajidha-droid/APS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/graajidha-droid/APS/tree/master/3483-unique-3-digit-even-numbers) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/graajidha-droid/APS/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/graajidha-droid/APS/tree/master/1386-cinema-seat-allocation) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/graajidha-droid/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/graajidha-droid/APS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/graajidha-droid/APS/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/graajidha-droid/APS/tree/master/1563-stone-game-v) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/graajidha-droid/APS/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/graajidha-droid/APS/tree/master/0542-01-matrix) |
 | [0940-distinct-subsequences-ii](https://github.com/graajidha-droid/APS/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/graajidha-droid/APS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/graajidha-droid/APS/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/graajidha-droid/APS/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/graajidha-droid/APS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -329,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/graajidha-droid/APS/tree/master/0643-maximum-average-subarray-i) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/graajidha-droid/APS/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/graajidha-droid/APS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/graajidha-droid/APS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/graajidha-droid/APS/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/graajidha-droid/APS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Queue
