@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/graajidha-droid/APS/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/graajidha-droid/APS/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/graajidha-droid/APS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/graajidha-droid/APS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/graajidha-droid/APS/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/graajidha-droid/APS/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/graajidha-droid/APS/tree/master/3483-unique-3-digit-even-numbers) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/graajidha-droid/APS/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/graajidha-droid/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/graajidha-droid/APS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/graajidha-droid/APS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/graajidha-droid/APS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Backtracking
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/graajidha-droid/APS/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/graajidha-droid/APS/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/graajidha-droid/APS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/graajidha-droid/APS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/graajidha-droid/APS/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/graajidha-droid/APS/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/graajidha-droid/APS/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/graajidha-droid/APS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/graajidha-droid/APS/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/graajidha-droid/APS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/graajidha-droid/APS/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/graajidha-droid/APS/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/graajidha-droid/APS/tree/master/2091-removing-minimum-and-maximum-from-array) |
