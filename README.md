@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/graajidha-droid/APS/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/graajidha-droid/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/graajidha-droid/APS/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/graajidha-droid/APS/tree/master/1096-brace-expansion-ii) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/graajidha-droid/APS/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/graajidha-droid/APS/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1971-find-if-path-exists-in-graph](https://github.com/graajidha-droid/APS/tree/master/1971-find-if-path-exists-in-graph) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/graajidha-droid/APS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/graajidha-droid/APS/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/graajidha-droid/APS/tree/master/0234-palindrome-linked-list) |
+| [1096-brace-expansion-ii](https://github.com/graajidha-droid/APS/tree/master/1096-brace-expansion-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/graajidha-droid/APS/tree/master/0929-unique-email-addresses) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/graajidha-droid/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0997-find-the-town-judge](https://github.com/graajidha-droid/APS/tree/master/0997-find-the-town-judge) |
+| [1096-brace-expansion-ii](https://github.com/graajidha-droid/APS/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/graajidha-droid/APS/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/graajidha-droid/APS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/graajidha-droid/APS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/graajidha-droid/APS/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/graajidha-droid/APS/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/graajidha-droid/APS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/graajidha-droid/APS/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/graajidha-droid/APS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/graajidha-droid/APS/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/graajidha-droid/APS/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/graajidha-droid/APS/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/graajidha-droid/APS/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/graajidha-droid/APS/tree/master/0257-binary-tree-paths) |
+| [1096-brace-expansion-ii](https://github.com/graajidha-droid/APS/tree/master/1096-brace-expansion-ii) |
 ## String
 |  |
 | ------- |
@@ -149,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/graajidha-droid/APS/tree/master/0721-accounts-merge) |
 | [0929-unique-email-addresses](https://github.com/graajidha-droid/APS/tree/master/0929-unique-email-addresses) |
 | [0940-distinct-subsequences-ii](https://github.com/graajidha-droid/APS/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/graajidha-droid/APS/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/graajidha-droid/APS/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/graajidha-droid/APS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/graajidha-droid/APS/tree/master/1927-sum-game) |
