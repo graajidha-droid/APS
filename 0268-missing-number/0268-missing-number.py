@@ -1,6 +1,6 @@
 class Solution:
     def missingNumber(self, nums: list[int]) -> int:
-        s=min(nums)
+        #s=min(nums)
         l=max(nums)
         #if len(nums)==1:
          #   if nums[0]==0:
