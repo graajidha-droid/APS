@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/graajidha-droid/APS/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/graajidha-droid/APS/tree/master/0209-minimum-size-subarray-sum) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/graajidha-droid/APS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0268-missing-number](https://github.com/graajidha-droid/APS/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/graajidha-droid/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0704-binary-search](https://github.com/graajidha-droid/APS/tree/master/0704-binary-search) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/graajidha-droid/APS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/graajidha-droid/APS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/graajidha-droid/APS/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/graajidha-droid/APS/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/graajidha-droid/APS/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/graajidha-droid/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/graajidha-droid/APS/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/graajidha-droid/APS/tree/master/0721-accounts-merge) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/graajidha-droid/APS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/graajidha-droid/APS/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/graajidha-droid/APS/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/graajidha-droid/APS/tree/master/0268-missing-number) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/graajidha-droid/APS/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0721-accounts-merge](https://github.com/graajidha-droid/APS/tree/master/0721-accounts-merge) |
 | [0973-k-closest-points-to-origin](https://github.com/graajidha-droid/APS/tree/master/0973-k-closest-points-to-origin) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/graajidha-droid/APS/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/graajidha-droid/APS/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/graajidha-droid/APS/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/graajidha-droid/APS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/graajidha-droid/APS/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/graajidha-droid/APS/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/graajidha-droid/APS/tree/master/0322-coin-change) |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/graajidha-droid/APS/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/graajidha-droid/APS/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/graajidha-droid/APS/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/graajidha-droid/APS/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/graajidha-droid/APS/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/graajidha-droid/APS/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/graajidha-droid/APS/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -405,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/graajidha-droid/APS/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/graajidha-droid/APS/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/graajidha-droid/APS/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/graajidha-droid/APS/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/graajidha-droid/APS/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Greedy
