@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/graajidha-droid/APS/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/graajidha-droid/APS/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/graajidha-droid/APS/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/graajidha-droid/APS/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/graajidha-droid/APS/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/graajidha-droid/APS/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/graajidha-droid/APS/tree/master/0695-max-area-of-island) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/graajidha-droid/APS/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/graajidha-droid/APS/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/graajidha-droid/APS/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/graajidha-droid/APS/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/graajidha-droid/APS/tree/master/1096-brace-expansion-ii) |
 ## String
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/graajidha-droid/APS/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/graajidha-droid/APS/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/graajidha-droid/APS/tree/master/0257-binary-tree-paths) |
+| [0301-remove-invalid-parentheses](https://github.com/graajidha-droid/APS/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/graajidha-droid/APS/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/graajidha-droid/APS/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/graajidha-droid/APS/tree/master/0678-valid-parenthesis-string) |
